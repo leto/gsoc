@@ -1,0 +1,47 @@
+Howdy all,
+
+Thank you all for volunteering to be Google Summer of Code mentors! If you have
+not done it before, I think you will find it a rewarding experience, and if you
+are a repeat customer, I hope this year will exceed past experiences.
+
+I like to think of myself as the center of a whirlpool as the org admin for GSoC.
+There are obviously so many things going on in each GSoC project that I cannot
+hope to follow, which is the majority of the whirlpool. But I intervene strategically,
+make sure everything is going smoothly, make suggestions for improvements, and
+spin along to the next student, in a circle.
+
+There are some good resources for mentors that I want to make sure you know about.
+I highly suggest reading the GSoC Mentor Guide [0], especially since I helped write
+it :) The History section is especially useful to read to get a feel for how GSoC
+has evolved. This blog post about mentor antipatterns [1] is also a good overview.
+
+Here are some of my suggestions for making the summer a success. Feel free to
+pick and choose any of them. From experience, the more of these you do, the greater
+the chance of a student successfully completing:
+
+1) Exchange contact info with student (phone/email/skype/twitter/etc)
+2) Actually talk and or video chat with student. Seeing a face, even once,
+creates a more personal relationship. If video is not possible, audio is
+the next best option.
+3) Set up a time at least once a week where you have "office hours" and are
+available for real-time conversation, i.e. IRC/chat/skype. 
+4) Give your student positive encouragement, randomly. Tell them war stories of
+yonder days when they are hitting a wall. It will boost their self-esteem. They
+need to learn to fail better and fail faster.
+5) Ask your student about their background, which editor they are using, which
+OS, things like that, so you know where they are coming from. The more you know
+about them, the better of a mentor you can be.
+
+Ok, that is my song and dance for now. Please feel free to contact me whenever
+you have a question. If it is not time-sensitive, email is best, but feel free
+to call/text my number below for time-sensitive situations.
+
+More emails will be forthcoming with details about the timeline. Just bond with
+your students for now :)
+
+May the code flow through you.
+
+Duke
+
+[0] http://www.booki.cc/gsoc-mentoring/_v/1.0/what-is-gsoc/
+[1] http://google-opensource.blogspot.com/2011/04/dos-and-donts-of-google-summer-of-code_21.html
